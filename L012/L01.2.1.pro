@@ -7,4 +7,4 @@
 -printmapping pgmapout.map
 -dontwarn
 
--keep public class ru.otus.l012.Main {public static void main(java.lang.String[]);}
+-keep public class ru.svn.l012.Main {public static void main(java.lang.String[]);}
